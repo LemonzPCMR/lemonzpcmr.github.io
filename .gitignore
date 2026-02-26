@@ -1,3 +1,7 @@
+# Extracted repo installer sources (edit these, zip them, commit the zip)
+repository.lemonzwizard/
+repository.lemonzwizard.dev/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
